@@ -2,17 +2,7 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 ### Introduction
-
-We will be creating a searchable, filterable list of friends.
-
-![alt text](https://github.com/DevMountain/angular-friends/blob/master/preview.png?raw=true, "Preview Image")
-
 ### Setup
-
-Fork and clone this repo
-
-* Include an angular script tag
-* Create an `app.js` and `FriendCtrl.js` file
 * Create a module in `app.js` with the name `myApp`
 * Create a controller named `FriendCtrl`
 * Add `ng-app` and `ng-controller` to index.html
